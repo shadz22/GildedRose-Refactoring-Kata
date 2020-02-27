@@ -1,4 +1,5 @@
 bin
+coverage
 obj
 *.sln.DotSettings.user
 .vs
